@@ -3,7 +3,7 @@ data "terraform_remote_state" "lab1" {
   config = {
     organization = "tnaj-or-id"
     workspaces = {
-      name = "ace-automation-lab1"
+      name = "IaC-automation-lab1"
     }
   }
 }
