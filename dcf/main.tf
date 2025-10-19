@@ -1,9 +1,6 @@
 locals {
   allowed_https_domains = [
-     "aviatrix.com",
-    "*.amazonaws.com",
-    "cloud.google.com",
-    "*.microsoft.com"
+   
   ]
 }
 
